@@ -1,8 +1,8 @@
 class M < Formula
   desc "MD-driven agent CLI for code, infrastructure, and automation"
   homepage "https://github.com/subzone/Agentctl"
-  url "https://github.com/subzone/Agentctl/archive/refs/tags/v0.0.25.tar.gz"
-  sha256 "2f5bd62e03022f5805509ed0c12878234359ab6fcf6a0c75314945a215401674"
+  url "https://github.com/subzone/Agentctl/archive/refs/tags/v0.0.26.tar.gz"
+  sha256 "9b2b5587cafda93035a4b976c08bf9bb63122309bab2ae8b5bb8f60a7337bcb1"
   license "MIT"
   head "https://github.com/subzone/Agentctl.git", branch: "main"
 
